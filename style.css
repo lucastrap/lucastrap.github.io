@@ -76,7 +76,9 @@ section {
 footer {
     font-family: 'Poppins', sans-serif;
 }
-
+body {
+    user-select: none;
+}
 .apropos .apropos-content,
 .passions .serv-content,
 .competences .competences-content,
